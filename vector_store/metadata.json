@@ -1,0 +1,97 @@
+[
+  {
+    "text": "# Acme Corp — Open Action Items\n\n| ID | Action Item | Owner | Due Date | Status | Priority |\n|---|---|---|---|---|---|\n| A-001 | Send authentication configuration guide | Solutions Team | 2026-08-28 | Open | High |\n| A-002 | Confirm sandbox access | Engineering Team | 2026-08-29 | Open | High |\n| A-003 | Provide API rate-limit documentation | Technical Documentation | 2026-08-30 | Open | Medium |\n| A-004 | Prepare ROI summary for leadership | Account Team | 2026-08-31 | In Progress | High |\n| A-",
+    "source": "data/action_items/acme_open_action_items.md",
+    "document_type": "action_items"
+  },
+  {
+    "text": "ount Team | 2026-08-31 | In Progress | High |\n| A-005 | Propose timeline for remaining integration work | Solutions Team | 2026-09-02 | Open | High |\n| A-006 | Recommend whether Acme is ready for expansion | Account Manager | 2026-09-03 | Open | High |\n\n## Important\nThe upcoming meeting should explicitly review overdue and high-priority items, identify blockers, and assign owners and dates.\n",
+    "source": "data/action_items/acme_open_action_items.md",
+    "document_type": "action_items"
+  },
+  {
+    "text": "# Acme Corp — Account Strategy Notes\n\n## Relationship Goal\nRetain Acme as a strategic enterprise customer and expand usage after the current implementation concerns are addressed.\n\n## Near-Term Goal\nDemonstrate that the remaining integration blockers are controlled and that the existing deployment is delivering measurable business value.\n\n## Expansion Trigger\nAcme is more likely to approve expansion when:\n- ROI is clearly documented.\n- Technical blockers have owners and dates.\n- API integration ",
+    "source": "data/action_items/acme_account_strategy.md",
+    "document_type": "action_items"
+  },
+  {
+    "text": "blockers have owners and dates.\n- API integration readiness is demonstrated.\n- Leadership has confidence in the implementation timeline.\n\n## Recommended Meeting Outcome\nLeave the meeting with:\n1. Agreement on the technical completion timeline.\n2. Confirmed owners for all open actions.\n3. Agreement on the ROI summary.\n4. A decision framework or target date for expansion discussion.\n",
+    "source": "data/action_items/acme_account_strategy.md",
+    "document_type": "action_items"
+  },
+  {
+    "text": "# Acme Corp — Executive Check-in\nDate: 2026-08-14\n\n## Attendees\n- Sarah Mitchell — VP Operations, Acme Corp\n- Priya Sharma — Account Manager\n\n## Discussion\n- Sarah said the business team is satisfied with the workflow automation results.\n- She wants a concise ROI summary before recommending expansion.\n- The two additional business units remain potential expansion targets.\n- Sarah emphasized that unresolved integration issues could delay the expansion decision.\n- She asked for a clear plan and ti",
+    "source": "data/meeting_notes/2026-08-14_acme_executive_checkin.md",
+    "document_type": "meeting_notes"
+  },
+  {
+    "text": "sion decision.\n- She asked for a clear plan and timeline for closing the remaining technical items.\n\n## Client Sentiment\nGenerally positive about business value, but concerned about execution speed and integration readiness.\n\n## Next Discussion\nThe next meeting should focus on:\n- ROI achieved so far\n- Remaining technical blockers\n- Timeline to production readiness\n- Expansion readiness\n",
+    "source": "data/meeting_notes/2026-08-14_acme_executive_checkin.md",
+    "document_type": "meeting_notes"
+  },
+  {
+    "text": "# Acme Corp — Quarterly Business Review\nDate: 2026-06-18\n\n## Attendees\n- Sarah Mitchell — VP Operations, Acme Corp\n- Daniel Wong — Director of Engineering, Acme Corp\n- Priya Sharma — Account Manager\n- Alex Rao — Solutions Consultant\n\n## Discussion\n- Acme reported good adoption of workflow automation by the operations team.\n- API integration work is progressing slower than originally planned.\n- Sarah requested clearer reporting on time saved through automation.\n- Daniel requested improved API doc",
+    "source": "data/meeting_notes/2026-06-18_acme_qbr.md",
+    "document_type": "meeting_notes"
+  },
+  {
+    "text": "gh automation.\n- Daniel requested improved API documentation and sample integration patterns.\n- Acme is considering extending the Analytics Dashboard to two additional business units.\n\n## Decisions\n- Provide a revised API integration plan.\n- Create an ROI summary for the current deployment.\n- Schedule a technical working session.\n\n## Open Items\n- API integration plan\n- ROI analysis\n- Technical working session\n",
+    "source": "data/meeting_notes/2026-06-18_acme_qbr.md",
+    "document_type": "meeting_notes"
+  },
+  {
+    "text": "# Acme Corp — Technical Review\nDate: 2026-07-22\n\n## Attendees\n- Daniel Wong — Director of Engineering, Acme Corp\n- Priya Sharma — Account Manager\n- Alex Rao — Solutions Consultant\n\n## Discussion\n- Daniel said the main integration blocker is authentication configuration.\n- The client needs clarification on API rate limits.\n- Engineering asked for a sandbox environment for testing.\n- The client wants the technical documentation updated before the next production rollout.\n\n## Decisions\n- Solutions ",
+    "source": "data/meeting_notes/2026-07-22_acme_technical_review.md",
+    "document_type": "meeting_notes"
+  },
+  {
+    "text": "ext production rollout.\n\n## Decisions\n- Solutions team will provide authentication guidance.\n- Engineering team will confirm sandbox access.\n- Documentation update will be tracked as a deliverable.\n\n## Open Items\n1. Send authentication configuration guide.\n2. Confirm sandbox access.\n3. Provide API rate-limit documentation.\n4. Update integration documentation.\n",
+    "source": "data/meeting_notes/2026-07-22_acme_technical_review.md",
+    "document_type": "meeting_notes"
+  },
+  {
+    "text": "# Internal Account Email\nDate: 2026-08-25\nFrom: Priya Sharma\nTo: Acme Account Team\nSubject: Preparation for upcoming Acme meeting\n\nTeam,\n\nThe Acme meeting is approaching. Sarah is positive about the business value but wants stronger confidence around the remaining technical work.\n\nPlease make sure we have:\n- Latest ROI figures\n- Current status of authentication configuration\n- Sandbox access status\n- API rate-limit documentation status\n- Proposed timeline for closing blockers\n- Recommendation on",
+    "source": "data/emails/2026-08-25_acme_internal_followup.md",
+    "document_type": "emails"
+  },
+  {
+    "text": " timeline for closing blockers\n- Recommendation on expansion readiness\n\nThe meeting should end with clear owners and dates for any remaining actions.\n",
+    "source": "data/emails/2026-08-25_acme_internal_followup.md",
+    "document_type": "emails"
+  },
+  {
+    "text": "# Email — Acme Follow-up\nDate: 2026-08-20\nFrom: Sarah Mitchell\nTo: Priya Sharma\nSubject: Acme integration and expansion planning\n\nHi Priya,\n\nThanks for the update. The operations team is happy with the workflow automation results.\n\nBefore we discuss expanding to the other two business units, I need confidence that the remaining integration issues have a clear owner and timeline.\n\nIt would also help to have the ROI numbers summarized in a format I can share with our leadership team.\n\nFor our next",
+    "source": "data/emails/2026-08-20_acme_followup.md",
+    "document_type": "emails"
+  },
+  {
+    "text": " can share with our leadership team.\n\nFor our next meeting, please come prepared with:\n- Current ROI\n- Integration blocker status\n- Expected completion dates\n- Expansion readiness\n\nThanks,\nSarah\n",
+    "source": "data/emails/2026-08-20_acme_followup.md",
+    "document_type": "emails"
+  },
+  {
+    "text": "# Acme Corp — Business Overview\n\nAcme Corp operates several enterprise business units and has been investing in process automation.\n\nThe client initially adopted the Workflow Automation Platform to reduce repetitive operational tasks. Early adoption was positive, but the client later reported that some integrations required more engineering effort than expected.\n\nThe operations team is particularly interested in:\n- Faster reporting\n- Better workflow monitoring\n- Reduced manual intervention\n- Rel",
+    "source": "data/client_documents/acme_corp_business_overview.md",
+    "document_type": "client_documents"
+  },
+  {
+    "text": "low monitoring\n- Reduced manual intervention\n- Reliable integrations\n- Clear ROI reporting\n\nThe engineering team has requested better API documentation and clearer escalation paths for integration issues.\n\nThe executive team is evaluating whether to expand the platform to additional business units during the next planning cycle.\n",
+    "source": "data/client_documents/acme_corp_business_overview.md",
+    "document_type": "client_documents"
+  },
+  {
+    "text": "# Acme Corp — Client Profile\n\n## Company\nAcme Corp is a mid-sized B2B software company that provides workflow automation and analytics solutions to enterprise customers.\n\n## Account Details\n- Account status: Active\n- Relationship start: January 2024\n- Primary industry: Enterprise Software\n- Customer segment: Enterprise\n- Account manager: Priya Sharma\n- Primary client contact: Sarah Mitchell, VP of Operations\n- Technical contact: Daniel Wong, Director of Engineering\n\n## Current Products\n- Workflo",
+    "source": "data/client_documents/acme_corp_profile.md",
+    "document_type": "client_documents"
+  },
+  {
+    "text": "ctor of Engineering\n\n## Current Products\n- Workflow Automation Platform\n- Analytics Dashboard\n- API Integration Package\n\n## Current Business Priorities\n1. Reduce manual operational work.\n2. Improve visibility into workflow performance.\n3. Expand API-based integrations with internal systems.\n4. Demonstrate measurable ROI from the existing platform.\n\n## Known Risks\n- Client has raised concerns about API integration delays.\n- Several implementation action items have remained open longer than expect",
+    "source": "data/client_documents/acme_corp_profile.md",
+    "document_type": "client_documents"
+  },
+  {
+    "text": "action items have remained open longer than expected.\n- Procurement may require additional justification before approving an expansion.\n\n## Opportunity\nAcme has indicated interest in expanding the Analytics Dashboard to two additional business units if the current implementation issues are resolved.\n",
+    "source": "data/client_documents/acme_corp_profile.md",
+    "document_type": "client_documents"
+  }
+]

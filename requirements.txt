@@ -1,0 +1,10 @@
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+python-dotenv
+pydantic
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai

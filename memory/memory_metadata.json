@@ -1,0 +1,18 @@
+[
+  {
+    "text": "The manager prefers concise meeting briefs.",
+    "memory_type": "user_preference"
+  },
+  {
+    "text": "The manager wants action items clearly highlighted.",
+    "memory_type": "user_preference"
+  },
+  {
+    "text": "Acme Corp is an important strategic client.",
+    "memory_type": "client_context"
+  },
+  {
+    "text": "For Acme meetings, the manager prefers to discuss open integration blockers first.",
+    "memory_type": "meeting_preference"
+  }
+]
